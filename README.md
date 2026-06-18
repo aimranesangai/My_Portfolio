@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # 👋 My Portfolio
@@ -401,6 +400,3 @@ https://opensource.org/licenses/MIT
 *"Building experiences that are simple, elegant, and meaningful."*
 
 </div>
-
-```
-```
