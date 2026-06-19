@@ -161,8 +161,6 @@ Playwright
 
 </p>
 
-> Replace these placeholders with actual screenshots.
-
 ---
 
 # 🏗 Project Structure
